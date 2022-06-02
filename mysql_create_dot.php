@@ -8,7 +8,7 @@ $sql_create = "CREATE TABLE dots
 ID int NOT NULL AUTO_INCREMENT,
 PRIMARY KEY(ID),
 latitude varchar(20),
-longintude varchar(20),
+longitude varchar(20),
 description varchar(20)
 )
 ";
